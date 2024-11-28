@@ -1,2 +1,2 @@
 # car_prediction
-Predict the Car Values
+Predict the Car Prices.
